@@ -7,6 +7,7 @@
 ###
 
 <br clear="both">
+<br clear="both">
 
 <p align="left">👑 Experiences</p>
 
@@ -35,7 +36,7 @@
 </div>
 
 ###
-
+<br clear="both">
 <p align="left">🤠 Activities</p>
 
 ###
@@ -58,10 +59,4 @@
 
 <img align="left" height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png"  />
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EliasZare/EliasZare/output/snake.svg" alt="Snake animation" />
-
-###
