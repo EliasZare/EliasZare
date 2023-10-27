@@ -1,0 +1,1 @@
+Hi there, I'm a junior web developer. desirous for new challenges to learn more. I have experience using technologies and languages   C#, HTML, CSS, and Aps. I enjoy coding, playing football, reading books, listening to podcasts, and my favorite music.
