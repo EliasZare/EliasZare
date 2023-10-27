@@ -11,10 +11,6 @@
 
 <p align="left">👑 Experiences</p>
 
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
