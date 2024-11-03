@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there, I'm a junior web developer. desirous for new challenges to learn more. I have experience using technologies and languages C#, HTML, CSS, and Aps. I enjoy coding, playing football and basketball, playing games, reading books, listening to podcasts, and my favorite music.</p>
+<p align="left">Hi there, I'm a junior web developer. desirous for new challenges to learn more. I have experience using technologies and languages C# and Aps.Net Core I enjoy coding, playing football and basketball, playing games, reading books, listening to podcasts, and my favorite music.</p>
 
 ###
 
